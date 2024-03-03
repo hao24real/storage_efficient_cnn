@@ -1,5 +1,3 @@
-*
-!*.py
-!*.gitignore
-!*.py
-!cnn_cifar_10/*
+data/
+.vscode/
+__pycache__/

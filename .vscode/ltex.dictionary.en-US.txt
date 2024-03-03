@@ -1,4 +1,0 @@
-ReLU
-Resnet
-Densenet
-Pytorch
