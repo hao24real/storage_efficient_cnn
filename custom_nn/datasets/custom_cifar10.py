@@ -1,6 +1,5 @@
 from torchvision.datasets import CIFAR10
 from PIL import Image
-import torch
 
 class CustomCIFAR10(CIFAR10):
     def __init__(self, root, train=True, download=False, transform=None, focused_transform=None, focused_classes=None):
