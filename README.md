@@ -11,7 +11,7 @@ Included in this repo are several models:
 - **Model Alpha**: The pinnacle of our experimentation, showcasing the combined learnings from previous models.
 
 ## Contribution
-We encourage you to fork the repo, suggest enhancements, or utilize our models for your research. Collaboration is key to advancing the field.
+I encourage you to fork the repo, suggest enhancements, or utilize our models for your research. Collaboration is key to advancing the field.
 
 ## Contact
 If you have questions or would like to discuss the research further, please reach out.
