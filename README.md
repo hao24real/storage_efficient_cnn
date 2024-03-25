@@ -6,9 +6,9 @@ This repository is home to my exploration of lightweight CNN architectures tailo
 ## Models
 Included in this repo are several models:
 
-- **Base Model**: The foundational model of our investigation.
-- **Models V1-V6**: These are our experimental models, each incorporating unique architectural features.
-- **Model Alpha**: The pinnacle of our experimentation, showcasing the combined learnings from previous models.
+- **Base Model**: The foundational model of my investigation.
+- **Models V1-V6**: These are my experimental models, each incorporating unique architectural features.
+- **Model Alpha**: The pinnacle of the experimentation, showcasing the combined learnings from previous models.
 
 ## Contribution
 I encourage you to fork the repo, suggest enhancements, or utilize our models for your research. Collaboration is key to advancing the field.
